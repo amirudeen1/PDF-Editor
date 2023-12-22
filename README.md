@@ -47,10 +47,6 @@ This file, which contains everything you should know about my program, and my ex
 
 Contains the list of pip-installable libraries that I used and an additional pycryptodome which was needed to run my program. 
 
-### YouTube Video
-
-As a requirement of CS50P's final project submission, a less than 3 minute video is required to talk about this project and display it to others. The link is at the top of this README.md.
-
 ### The End (or the beginning of something beautiful)
 
 Formally, the project demonstrates efficient use of various libraries to handle different aspects of PDF manipulation, offering a user-friendly tool for everyday PDF tasks. 
