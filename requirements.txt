@@ -1,0 +1,4 @@
+pypdf
+tkinter
+pycryptodome(required for AES algorithm)
+reportlab(issues a dependency warning:DeprecationWarning)
