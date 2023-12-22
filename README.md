@@ -1,10 +1,6 @@
 # PDF Basic Editor
 
-#### Video Demo:  <https://youtu.be/ER4v0-5MMMI>
-
-#### Description:
-
-### Introduction and story-telling :>
+### Introduction:
 Formally, this project is designed to provide a comprehensive solution for various PDF manipulation tasks. It consists of two main files: `project.py` and `test_project.py`. Currently it is able to perform 5 tasks, such as merging more than 1 PDFs, splitting a single PDF, adding a simple watermark to all pages of a PDF, encrypting a PDF with a password and decrypting these (and other) encrypted PDFs. 
 
 I am at the end of completing my CS50P project which is python programming, an online course taught by David Malan from Harvard. Shoutout to him! As a year 1 physics major, I was introduced to data analytics and processing with Python, and back then, 4 years ago, I completely hated it. Now, all due to his efforts to engage the class, inspire, motivate and show us the mind-blowing things programming can do, here I am 4 years later, totally in love with coding languages and the idea of programming. Anyways, the final task of this course, was to create a project of my own, and that's when I thought to myself, why not kill 2 birds with 1 stone and build something that will allow me to both pass this course, and have something built for me to automate a task or make my life (and even other lives) easier. It took me a really long time to brainstorm one good idea that I should work on, as I had a few ideas.
